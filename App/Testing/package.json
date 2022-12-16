@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "start" : "Testing/test1.js",
+  "name": "testing",
+  "version": "1.0.0",
+  "main": "test1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
