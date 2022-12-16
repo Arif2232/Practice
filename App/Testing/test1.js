@@ -8,7 +8,6 @@ for (i = 2; i < numb.length; i++) {
     if(numb % i === 0 )
     {
         console.log(`${numb} is not prime number`)
-       
 
     }
     else 
